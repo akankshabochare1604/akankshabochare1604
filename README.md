@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akankshabochare1604
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning BCA (2nd year)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on akankshabochare2216@gmail.com
 - 
 
